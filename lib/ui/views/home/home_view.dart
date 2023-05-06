@@ -94,7 +94,7 @@ class HomeView extends StackedView<HomeViewModel> {
                 imageName: 'assets/images/makeup.png',
                 hashTitle: ksBeautySale,
                 mainTitle: ksDiscoverOurBeautySelection,
-                topValue: 40,
+                topValue: 30,
                 fontSize: 22,
               ),
             ],
